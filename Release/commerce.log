@@ -1,0 +1,8 @@
+﻿  commerce.cpp
+C:\Users\User\Desktop\HW\Programming\commerce\commerce\commerce.cpp(18,21): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  commerce.vcxproj -> C:\Users\User\Desktop\HW\Programming\commerce\Release\commerce.exe
